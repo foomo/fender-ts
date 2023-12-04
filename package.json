@@ -59,7 +59,7 @@
 		"@typescript-eslint/parser": "5.55.0",
 		"babel-eslint": "10.1.0",
 		"eslint": "8.52.0",
-		"eslint-config-prettier": "8.8.0",
+		"eslint-config-prettier": "9.1.0",
 		"eslint-plugin-prettier": "4.2.1",
 		"is-email": "1.0.2",
 		"is-url": "1.2.4",
